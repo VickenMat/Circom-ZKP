@@ -5,7 +5,7 @@ pragma circom 2.0.0;
 template NAND () {  
 
    // Declaration of signals.  
-   signal input s1;  
+   signal input s1;   
    signal input s2;  
    signal output s3;  
 
